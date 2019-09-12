@@ -1,0 +1,7 @@
+dirlist="${@}"
+(
+  [[ -z "$dirlist" ]] && dirlist=`find ./ -mindepth 1 -type d` && IFS=$'\n'
+  for d in $dirlist; do
+    echo $d
+  done
+)
