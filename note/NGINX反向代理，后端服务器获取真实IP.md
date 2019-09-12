@@ -1,10 +1,3 @@
- NGINX：
-
- 需要添加一个模块来处理包头   
- 1.可通过添加http_realip_module模块来获取真实客户端IP地址   
- 2.修改NGINX配置文件启动模块作用
-
- 
 ```
 vim  /usr/local/nginx/conf/nginx.conf
   location / {

@@ -1,10 +1,3 @@
- From: [http://blog.csdn.net/aidenliu/article/details/5925604](http://blog.csdn.net/aidenliu/article/details/5925604)
-
- mysql错误代码对照表较完整 
-
- 0101 属于其他进程的专用标志。   
- 0102 标志已经设置，无法关闭。   
- 0103 无法再次设置该标志。   
  0104 中断时无法请求专用标志。   
  0105 此标志先前的所有权已终止。   
  0106 请将软盘插入驱动器 %1。   

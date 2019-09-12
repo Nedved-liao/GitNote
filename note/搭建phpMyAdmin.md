@@ -1,10 +1,3 @@
-  ## MySQL常见的管理工具
-
- ![这里写图片描述](https://img-blog.csdn.net/20171124094922784?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTmVkdmVkX0w=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
-
- 今天选择的phpMyAdmin   
- 一款基于浏览器管理数据库的工具。   
- 下载可以去官网下载[https://files.phpmyadmin.net/phpMyAdmin/4.7.5/phpMyAdmin-4.7.5-all-languages.tar.gz](https://files.phpmyadmin.net/phpMyAdmin/4.7.5/phpMyAdmin-4.7.5-all-languages.tar.gz)
 
  
 ## 准备环境

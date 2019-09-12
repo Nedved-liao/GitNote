@@ -1,11 +1,4 @@
  
-
- 
-# 1、add 
-
- 往版本库中添加新的文件
-
- 
 > [root@78778e06dc0a test]# ls  
 >  t1 test.1 test.2 test.3  
 >  [root@78778e06dc0a test]# svn add t1  

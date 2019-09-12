@@ -1,10 +1,3 @@
-  # []()事件背景
-
- 最近数据库全有oracle11g升级到oracle12C后，遇到了不小的问题  
- 升级后应用的报错ORA-28040: No matching authentication protocol
-
- 
-# []()ORA-28040: No matching authentication protocol
 
  服务端是Oracle12C  
  客户端低于服务端版本

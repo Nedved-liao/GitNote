@@ -1,10 +1,3 @@
-   1、先到Redis官网(redis.io)下载redis安装包
-
- 
-```
- cd /tmp
-wget http://download.redis.io/releases/redis-4.0.10.tar.gz
-
 ```
  2、解压  
  

@@ -1,10 +1,3 @@
-  前言：   
- Oracle使用Linux命令行进行编辑？   
- 有PL/SQL development，SQL development等工具，为何用Linux命令行？   
- 但也免不了有用的的时候
-
- 以下是解决在Linux命令行无法使用快捷键的方法
-
  rlwrap 可用来支持oracle下sqlplus历史命令的回调功能，提高效率。
 
  1.安装以下软件   

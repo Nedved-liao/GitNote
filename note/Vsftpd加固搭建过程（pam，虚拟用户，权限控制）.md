@@ -1,10 +1,3 @@
-
- **执行用户: root**
-
-
-|目录|路径|
-|:-|:-|
-|文件目录|/etc/vsftp|
 |用户权限配置目录|/etc/vsftpd/user.d|
 |不可登录名单|/etc/vsftpd/user_list|
 |主配置文件|/etc/vsftpd/vsftpd.conf|

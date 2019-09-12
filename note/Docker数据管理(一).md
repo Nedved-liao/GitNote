@@ -1,10 +1,3 @@
-
- -v 进行映射
-
- 
-## 1.在容器内生成一个数据卷
-
- 
 > docker run -id --rm --name dbdata -v dbdata docker.io/busybox
 > 
 >  
