@@ -1,10 +1,3 @@
----
-title: 搭建phpMyAdmin
-date: 2017-11-24 15:20:17
-tags: CSDN迁移
----
- [ ](http://creativecommons.org/licenses/by-sa/4.0/) 版权声明：本文为博主原创文章，遵循[ CC 4.0 BY-SA ](http://creativecommons.org/licenses/by-sa/4.0/)版权协议，转载请附上原文出处链接和本声明。  本文链接：[https://blog.csdn.net/Nedved_L/article/details/78621694](https://blog.csdn.net/Nedved_L/article/details/78621694)   
-    
   ## MySQL常见的管理工具
 
  ![这里写图片描述](https://img-blog.csdn.net/20171124094922784?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTmVkdmVkX0w=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)

@@ -1,10 +1,3 @@
----
-title: Oracle12C的一些小问题ORA-28040和ORA-01017
-date: 2019-05-22 16:31:41
-tags: CSDN迁移
----
- [ ](http://creativecommons.org/licenses/by-sa/4.0/) 版权声明：本文为博主原创文章，遵循[ CC 4.0 BY-SA ](http://creativecommons.org/licenses/by-sa/4.0/)版权协议，转载请附上原文出处链接和本声明。  本文链接：[https://blog.csdn.net/Nedved_L/article/details/90446565](https://blog.csdn.net/Nedved_L/article/details/90446565)   
-    
   # []()事件背景
 
  最近数据库全有oracle11g升级到oracle12C后，遇到了不小的问题  

@@ -1,17 +1,3 @@
----
-title: AIX详细的VG,LV扩容步骤
-date: 2018-08-14 17:02:47
-tags: CSDN迁移
----
- [ ](http://creativecommons.org/licenses/by-sa/4.0/) 版权声明：本文为博主原创文章，遵循[ CC 4.0 BY-SA ](http://creativecommons.org/licenses/by-sa/4.0/)版权协议，转载请附上原文出处链接和本声明。  本文链接：[https://blog.csdn.net/Nedved_L/article/details/81670371](https://blog.csdn.net/Nedved_L/article/details/81670371)   
-    
-   # 需求
-
- 1.归档日志刷得太快,经常把空间挤爆.
-
- 2.Oracle数据库表空间需要扩容
-
- 
 # 解决方案
 
  1.先做重要数据备份

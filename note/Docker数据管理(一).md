@@ -1,17 +1,3 @@
----
-title: Docker数据管理(一)
-date: 2018-08-27 22:07:14
-tags: CSDN迁移
----
- [ ](http://creativecommons.org/licenses/by-sa/4.0/) 版权声明：本文为博主原创文章，遵循[ CC 4.0 BY-SA ](http://creativecommons.org/licenses/by-sa/4.0/)版权协议，转载请附上原文出处链接和本声明。  本文链接：[https://blog.csdn.net/Nedved_L/article/details/82119761](https://blog.csdn.net/Nedved_L/article/details/82119761)   
-    
-   # 数据卷挂载
-
- 在生产环境中,需要对数据进行持久化,冗余化,或者在需要在多个容器之间进行数据共享
-
- 数据卷:容器内数据直接映射到本地主机环境
-
- 数据卷容器:使同特定容器维护数据卷
 
  -v 进行映射
 

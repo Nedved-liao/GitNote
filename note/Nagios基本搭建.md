@@ -1,17 +1,3 @@
----
-title: Nagios基本搭建
-date: 2017-11-30 11:18:34
-tags: CSDN迁移
----
- [ ](http://creativecommons.org/licenses/by-sa/4.0/) 版权声明：本文为博主原创文章，遵循[ CC 4.0 BY-SA ](http://creativecommons.org/licenses/by-sa/4.0/)版权协议，转载请附上原文出处链接和本声明。  本文链接：[https://blog.csdn.net/Nedved_L/article/details/78672791](https://blog.csdn.net/Nedved_L/article/details/78672791)   
-    
-  ## Nagios简述：
-
- 1.一款用来监视系统和网络的开源软件   
- 2.利用其从多的插件实现对本机和远端服务的监控   
- 3.当被监控对象异常时，回及时向管理员警告   
- 4.提供一批预设好的监控插件，用户可以直接调用   
- 5.也可以自定义shell脚本来监控服务，适合各类企业的业务监控   
  6.可通过Web页面显示对象状态，日志，警告信息
 
  

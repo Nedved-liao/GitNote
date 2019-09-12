@@ -1,10 +1,3 @@
----
-title: Oracle11g静默安装
-date: 2019-03-29 14:19:29
-tags: CSDN迁移
----
- [ ](http://creativecommons.org/licenses/by-sa/4.0/) 版权声明：本文为博主原创文章，遵循[ CC 4.0 BY-SA ](http://creativecommons.org/licenses/by-sa/4.0/)版权协议，转载请附上原文出处链接和本声明。  本文链接：[https://blog.csdn.net/Nedved_L/article/details/88891575](https://blog.csdn.net/Nedved_L/article/details/88891575)   
-    
   # []()前言
 
  最近在部署一套环境，里面的数据库用的是Oracle。就顺带整理了一下笔记  

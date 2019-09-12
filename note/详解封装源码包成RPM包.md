@@ -1,10 +1,3 @@
----
-title: 详解封装源码包成RPM包
-date: 2017-11-16 10:26:09
-tags: CSDN迁移
----
- [ ](http://creativecommons.org/licenses/by-sa/4.0/) 版权声明：本文为博主原创文章，遵循[ CC 4.0 BY-SA ](http://creativecommons.org/licenses/by-sa/4.0/)版权协议，转载请附上原文出处链接和本声明。  本文链接：[https://blog.csdn.net/Nedved_L/article/details/78548101](https://blog.csdn.net/Nedved_L/article/details/78548101)   
-    
   源码编译安装是最常用安装软件方式，可是面对工作量巨大时候就需要我们的RPM包上场了，统一的模块，一键安装。在面对一定数量的服务器上，RPM就可以为我们节省大量的时间。   
  RPM可以在网上下载，但是当我们需要用到特殊模块时，这些网上的RPM就显得那么的苍白无力了。所以自行封装打包成了一和需求。现在就介绍如何封装打包。
 

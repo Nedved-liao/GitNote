@@ -1,17 +1,3 @@
----
-title: NGINX反向代理，后端服务器获取真实IP
-date: 2018-01-21 16:09:04
-tags: CSDN迁移
----
- [ ](http://creativecommons.org/licenses/by-sa/4.0/) 版权声明：本文为博主原创文章，遵循[ CC 4.0 BY-SA ](http://creativecommons.org/licenses/by-sa/4.0/)版权协议，转载请附上原文出处链接和本声明。  本文链接：[https://blog.csdn.net/Nedved_L/article/details/79120869](https://blog.csdn.net/Nedved_L/article/details/79120869)   
-    
-  一般使用中间件做一个反向代理后，后端的web服务器是无法获取到真实的IP地址。
-
- 但是生产上，这又是不允许的，那么怎么解决?
-
- 1.在NGINX反向代理服务器上进行修改   
- 2.修改后端web服务器配置文件
-
  NGINX：
 
  需要添加一个模块来处理包头   

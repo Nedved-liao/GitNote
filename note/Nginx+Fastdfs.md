@@ -1,17 +1,3 @@
----
-title: Nginx+Fastdfs
-date: 2018-12-20 18:52:17
-tags: CSDN迁移
----
- [ ](http://creativecommons.org/licenses/by-sa/4.0/) 版权声明：本文为博主原创文章，遵循[ CC 4.0 BY-SA ](http://creativecommons.org/licenses/by-sa/4.0/)版权协议，转载请附上原文出处链接和本声明。  本文链接：[https://blog.csdn.net/Nedved_L/article/details/83751405](https://blog.csdn.net/Nedved_L/article/details/83751405)   
-    
-   注：  
- 在配置时，使用非root用户配置
-
- fdfs/fdfs
-
- 
-
  
 # 1. 集群部署
 

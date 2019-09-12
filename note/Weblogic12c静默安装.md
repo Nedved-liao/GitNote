@@ -1,10 +1,3 @@
----
-title: Weblogic12c静默安装
-date: 2019-04-08 17:04:06
-tags: CSDN迁移
----
- [ ](http://creativecommons.org/licenses/by-sa/4.0/) 版权声明：本文为博主原创文章，遵循[ CC 4.0 BY-SA ](http://creativecommons.org/licenses/by-sa/4.0/)版权协议，转载请附上原文出处链接和本声明。  本文链接：[https://blog.csdn.net/Nedved_L/article/details/89096613](https://blog.csdn.net/Nedved_L/article/details/89096613)   
-    
   # []()前言：
 
  这几天按照客户要求，把原有的weblogic升级到12C。不过在之前需要先搭建一个测试环境。12C后还是有许多不一致的地方   

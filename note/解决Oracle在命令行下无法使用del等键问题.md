@@ -1,10 +1,3 @@
----
-title: 解决Oracle在命令行下无法使用del等键问题
-date: 2018-03-20 17:38:15
-tags: CSDN迁移
----
- [ ](http://creativecommons.org/licenses/by-sa/4.0/) 版权声明：本文为博主原创文章，遵循[ CC 4.0 BY-SA ](http://creativecommons.org/licenses/by-sa/4.0/)版权协议，转载请附上原文出处链接和本声明。  本文链接：[https://blog.csdn.net/Nedved_L/article/details/79629113](https://blog.csdn.net/Nedved_L/article/details/79629113)   
-    
   前言：   
  Oracle使用Linux命令行进行编辑？   
  有PL/SQL development，SQL development等工具，为何用Linux命令行？   

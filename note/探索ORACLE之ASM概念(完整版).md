@@ -1,10 +1,3 @@
----
-title: 探索ORACLE之ASM概念(完整版)
-date: 2018-07-23 18:37:45
-tags: CSDN迁移
----
-   # 探索ORACLE之ASM概念(完整版)
-
  本文出自[https://www.jb51.net/article/43527.htm](https://www.jb51.net/article/43527.htm)
 
  

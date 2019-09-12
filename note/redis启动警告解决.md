@@ -1,10 +1,3 @@
----
-title: redis启动警告解决
-date: 2018-08-04 22:23:59
-tags: CSDN迁移
----
- [ ](http://creativecommons.org/licenses/by-sa/4.0/) 版权声明：本文为博主原创文章，遵循[ CC 4.0 BY-SA ](http://creativecommons.org/licenses/by-sa/4.0/)版权协议，转载请附上原文出处链接和本声明。  本文链接：[https://blog.csdn.net/Nedved_L/article/details/81416032](https://blog.csdn.net/Nedved_L/article/details/81416032)   
-    
    ## 背景
 
  最近在测试环境重启后,redis启动遇到了三个警告

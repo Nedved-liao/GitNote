@@ -1,10 +1,3 @@
----
-title: mysql错误代码对照表较完整
-date: 2017-11-25 16:14:31
-tags: CSDN迁移
----
-  ## mysql错误代码对照表较完整 mysql_errno()
-
  From: [http://blog.csdn.net/aidenliu/article/details/5925604](http://blog.csdn.net/aidenliu/article/details/5925604)
 
  mysql错误代码对照表较完整 
