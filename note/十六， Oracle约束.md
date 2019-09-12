@@ -1,10 +1,3 @@
----
-title: 十六， Oracle约束
-date: 2018-04-03 10:54:59
-tags: CSDN迁移
----
- [ ](http://creativecommons.org/licenses/by-sa/4.0/) 版权声明：本文为博主原创文章，遵循[ CC 4.0 BY-SA ](http://creativecommons.org/licenses/by-sa/4.0/)版权协议，转载请附上原文出处链接和本声明。  本文链接：[https://blog.csdn.net/Nedved_L/article/details/79800118](https://blog.csdn.net/Nedved_L/article/details/79800118)   
-    
   ## 前言
 
  数据的完整性用于确保数据库数据遵从一定的商业和逻辑规则，在oracle中，数据完整性可以使用约束、触发器、应用程序（过程、函数）三种方法来实现，在这三种方法中，因为约束易于维护，并且具有最好的性能，所以作为维护数据完整性的首选

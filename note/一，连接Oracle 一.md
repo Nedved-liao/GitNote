@@ -1,10 +1,3 @@
----
-title: 一，连接Oracle 一
-date: 2018-03-20 18:30:52
-tags: CSDN迁移
----
- [ ](http://creativecommons.org/licenses/by-sa/4.0/) 版权声明：本文为博主原创文章，遵循[ CC 4.0 BY-SA ](http://creativecommons.org/licenses/by-sa/4.0/)版权协议，转载请附上原文出处链接和本声明。  本文链接：[https://blog.csdn.net/Nedved_L/article/details/79629464](https://blog.csdn.net/Nedved_L/article/details/79629464)   
-    
   连接Oracle数据库方法：   
  一，使用sqlplus连接   
  二，使用第三方软件连接

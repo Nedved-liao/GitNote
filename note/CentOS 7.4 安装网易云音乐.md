@@ -1,10 +1,3 @@
----
-title: CentOS 7.4 安装网易云音乐
-date: 2017-11-10 15:47:02
-tags: CSDN迁移
----
- [ ](http://creativecommons.org/licenses/by-sa/4.0/) 版权声明：本文为博主原创文章，遵循[ CC 4.0 BY-SA ](http://creativecommons.org/licenses/by-sa/4.0/)版权协议，转载请附上原文出处链接和本声明。  本文链接：[https://blog.csdn.net/Nedved_L/article/details/78500524](https://blog.csdn.net/Nedved_L/article/details/78500524)   
-    
   1.下包–>网易云音乐   
  Ubuntu14.04（推荐14.04依赖包网上能找到）   
  ![这里写图片描述](https://img-blog.csdn.net/20171111101837468?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTmVkdmVkX0w=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)   

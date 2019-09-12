@@ -1,10 +1,3 @@
-
- 
-## 准备环境
-
- httpd php php-mysql 
-
- 
 ```
 [root@DB3 ~]#yum install httpd php php-mysql -y
 ```

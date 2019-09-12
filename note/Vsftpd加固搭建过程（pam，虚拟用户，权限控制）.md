@@ -1,10 +1,3 @@
-|用户权限配置目录|/etc/vsftpd/user.d|
-|不可登录名单|/etc/vsftpd/user_list|
-|主配置文件|/etc/vsftpd/vsftpd.conf|
-|pam配置文件|/etc/pam.d/vsftpd|
-
-    
- 
 # 部署
 
  

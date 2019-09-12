@@ -1,10 +1,3 @@
-
- 
-```
- #防火墙禁用
-systemctl stop firewalld
-systemctl disable firewalld
-
 #SELinux禁用
 setenforce 0
 sed -i '/^SE/s/enforcing/disabled/' /etc/selinux/config 

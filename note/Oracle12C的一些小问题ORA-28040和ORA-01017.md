@@ -1,10 +1,3 @@
-
- 服务端是Oracle12C  
- 客户端低于服务端版本
-
- 官方给出的错误
-
- 
 > ORA-28040: No matching authentication protocol  
 >   
 >  Cause: No acceptible authentication protocol for both client and server  

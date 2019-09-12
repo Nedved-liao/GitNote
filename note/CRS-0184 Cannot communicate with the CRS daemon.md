@@ -1,10 +1,3 @@
----
-title: CRS-0184 Cannot communicate with the CRS daemon
-date: 2018-08-10 10:50:53
-tags: CSDN迁移
----
- [ ](http://creativecommons.org/licenses/by-sa/4.0/) 版权声明：本文为博主原创文章，遵循[ CC 4.0 BY-SA ](http://creativecommons.org/licenses/by-sa/4.0/)版权协议，转载请附上原文出处链接和本声明。  本文链接：[https://blog.csdn.net/Nedved_L/article/details/81559420](https://blog.csdn.net/Nedved_L/article/details/81559420)   
-    
    # 事件背景
 
  rman清理脚本异常.导致磁盘空间爆满(一个环境变量没有设置正确)  

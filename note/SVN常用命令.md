@@ -1,10 +1,3 @@
- 
-> [root@78778e06dc0a test]# ls  
->  t1 test.1 test.2 test.3  
->  [root@78778e06dc0a test]# svn add t1  
->  A t1  
->  [root@78778e06dc0a test]# svn add test.*  
->  A test.1  
 >  A test.2  
 >  A test.3
 > 

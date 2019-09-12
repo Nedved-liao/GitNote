@@ -1,10 +1,3 @@
- rlwrap 可用来支持oracle下sqlplus历史命令的回调功能，提高效率。
-
- 1.安装以下软件   
- readline   
- ncurses-devel   
- readline-devel   
- compat-libtermcap   
  compat-readline   
  rlwrap
 

@@ -1,10 +1,3 @@
----
-title: kubeadm 默认镜像配置问题引申
-date: 2019-01-23 16:37:11
-tags: CSDN迁移
----
- [ ](http://creativecommons.org/licenses/by-sa/4.0/) 版权声明：本文为博主原创文章，遵循[ CC 4.0 BY-SA ](http://creativecommons.org/licenses/by-sa/4.0/)版权协议，转载请附上原文出处链接和本声明。  本文链接：[https://blog.csdn.net/Nedved_L/article/details/86503387](https://blog.csdn.net/Nedved_L/article/details/86503387)   
-    
    背景：
 
  每次使用功能kubeadm的时候都需要提前准备好镜像，为什么自定义使用的镜像源呢？  

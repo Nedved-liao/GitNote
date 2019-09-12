@@ -1,10 +1,3 @@
-# 步骤
-
- 
-## 1. df -g 查找出/u01 对应的VG卷 VOLUME GROUP: 
-
- 
-> # df -g  
 >  Filesystem GB blocks Free %Used Iused %Iused Mounted on  
 >  .
 > 

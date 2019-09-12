@@ -1,10 +1,3 @@
----
-title: Cent OS 7 搭建MySQL
-date: 2017-11-22 13:23:02
-tags: CSDN迁移
----
- [ ](http://creativecommons.org/licenses/by-sa/4.0/) 版权声明：本文为博主原创文章，遵循[ CC 4.0 BY-SA ](http://creativecommons.org/licenses/by-sa/4.0/)版权协议，转载请附上原文出处链接和本声明。  本文链接：[https://blog.csdn.net/Nedved_L/article/details/78602580](https://blog.csdn.net/Nedved_L/article/details/78602580)   
-    
   ## 搭建数据库服务器
 
  版本众多，但为了追求稳定选择的是5.7

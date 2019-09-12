@@ -1,10 +1,3 @@
----
-title: 二， 连接Oracle  二
-date: 2018-03-20 18:57:59
-tags: CSDN迁移
----
- [ ](http://creativecommons.org/licenses/by-sa/4.0/) 版权声明：本文为博主原创文章，遵循[ CC 4.0 BY-SA ](http://creativecommons.org/licenses/by-sa/4.0/)版权协议，转载请附上原文出处链接和本声明。  本文链接：[https://blog.csdn.net/Nedved_L/article/details/79630030](https://blog.csdn.net/Nedved_L/article/details/79630030)   
-    
   ## 一，sqlplus操作
 
  文件操作命令   

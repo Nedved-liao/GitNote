@@ -1,10 +1,3 @@
- 
-# 一 安装补丁步骤
-
- 1、登录linux的weblogic用户，切换到/home/weblogic/Oracle/Middleware/utils/bsu/目录下。
-
- 2、确认当前weblogic版本,并确认所有域的进程全部关闭
-
  查看版本  
  ./bsu.sh -prod_dir={MW_HOME}/{WL_HOME} -status=applied -verbose -view
 

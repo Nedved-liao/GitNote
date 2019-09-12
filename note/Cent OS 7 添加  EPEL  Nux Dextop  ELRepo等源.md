@@ -1,10 +1,3 @@
----
-title: Cent OS 7 添加  EPEL  Nux Dextop  ELRepo等源
-date: 2017-11-11 19:03:38
-tags: CSDN迁移
----
- [ ](http://creativecommons.org/licenses/by-sa/4.0/) 版权声明：本文为博主原创文章，遵循[ CC 4.0 BY-SA ](http://creativecommons.org/licenses/by-sa/4.0/)版权协议，转载请附上原文出处链接和本声明。  本文链接：[https://blog.csdn.net/Nedved_L/article/details/78508044](https://blog.csdn.net/Nedved_L/article/details/78508044)   
-    
   ## Cent OS 7 添加第三方yum源
 
  CentOS由于很追求稳定性，所以官方源中自带的软件不多，因而需要一些第三方源。   

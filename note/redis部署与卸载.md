@@ -1,11 +1,4 @@
 ```
- 2、解压  
- 
-
- 
-```
- tar -xvf redis-4.0.10.tar.gz
-```
  3、cp到/usr/local下 (纯属个人习惯)  
  
 

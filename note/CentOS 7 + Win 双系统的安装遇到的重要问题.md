@@ -1,10 +1,3 @@
----
-title: CentOS 7 + Win 双系统的安装遇到的重要问题
-date: 2017-11-14 21:00:30
-tags: CSDN迁移
----
- [ ](http://creativecommons.org/licenses/by-sa/4.0/) 版权声明：本文为博主原创文章，遵循[ CC 4.0 BY-SA ](http://creativecommons.org/licenses/by-sa/4.0/)版权协议，转载请附上原文出处链接和本声明。  本文链接：[https://blog.csdn.net/Nedved_L/article/details/78535055](https://blog.csdn.net/Nedved_L/article/details/78535055)   
-    
   前言：对于刚学linux的朋友们，多多小小因为各种原因需要装双系统，亦或者爱好使然。多数是问题解决,第一次装系统者不推荐看….   
  那么现在内德在此就说说在本本上装双系统会遇到的问题及其解决方法。
 

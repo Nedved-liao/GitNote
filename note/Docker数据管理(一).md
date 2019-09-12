@@ -1,10 +1,3 @@
-> docker run -id --rm --name dbdata -v dbdata docker.io/busybox
-> 
->  
- 
-## 2.挂载主机目录作为数据卷, 将webroot挂载到容器的test中(绝对路径)
-
- 
 > docker run -id --rm --name -P web -v /root/webroot:/test docker.io/busybox
 > 
 >  

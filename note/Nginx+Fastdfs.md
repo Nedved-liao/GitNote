@@ -1,10 +1,3 @@
-
- 创建目录：本文档中所有内容安装到/fdfs目录
-
- 
-> [fdfs@5861be93b5b0 /]$mkdir -p /fdfs/fastdfs/data /fdfs/nginx/nginx_temp /fdfs/soft && ln -s /fdfs/fastdfs/data /fdfs/fastdfs/data/M00
-> 
->  [fdfs@5861be93b5b0 /]$sudo yum install gcc make gcc-c++ -y
 > 
 >  
  上传文件：  
