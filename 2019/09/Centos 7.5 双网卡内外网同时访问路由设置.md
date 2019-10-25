@@ -1,37 +1,81 @@
-# [Centos 7.5 双网卡内外网同时访问路由设置](https://www.cnblogs.com/xuefy/p/11344086.html)
+# Centos 双网卡内外网同时访问路由设置
 
 
 
-说明：服务器有两张网卡分别是eth0、eth1，eth0配置内网IP：192.168.1.1/24，eth1配置外网IP：10.1.1.1/24；要求192.168.0.0/16网段走网卡eth0，网关是192.168.1.254，其余网段走网卡eth1，网关是10.1.1.254;
-一、配置网卡IP
-vi /etc/sysconfig/network-scripts/ifcfg-eth0 //配置网卡1
+## 说明
 
-NAME="eth0"
-ONBOOT="yes"
-IPADDR="192.168.1.1"
-PREFIX="24"
-\#GATEWAY="192.168.1.254" 只能有一个默认路由，网卡2做默认路由啦，这里就注释掉
+| 网卡 | 网段           | 网关          | 备注 |
+| ---- | -------------- | ------------- | ---- |
+| eth0 | 192.168.1.1/24 | 192.168.1.254 | 内网 |
+| eth1 | 10.1.1.1/24    | 10.1.1.254    | 外网 |
 
-vi /etc/sysconfig/network-scripts/ifcfg-eth1 //配置网卡2
 
-NAME="eth1"
-ONBOOT="yes"
-IPADDR="10.1.1.1"
-PREFIX="24"
-GATEWAY0="10.1.1.254"
 
-二、添加内网访问路由
-vi /etc/sysconfig/network-scripts/route-eth0 //配置网卡1路由
+## 1.0 配置网卡
 
+
+
+### 一、配置eth0网卡
+
+```bash
+cat > /etc/sysconfig/network-scripts/ifcfg-eth0 <<EOF
+DEVICE=eth0
+ONBOOT=yes
+BOOTPROTO=none
+IPADDR=192.168.1.1
+NETMASK=255.255.0.0
+#GATEWAY=192.168.1.254
+EOF
+```
+
+> 只能有一个默认路由，网卡eth1 做默认路由,所以eth0 的GATEWAY 就注释了
+
+
+
+### 二、配置eth1网卡
+
+ ```bash
+cat > /etc/sysconfig/network-scripts/ifcfg-eth1 <<EOF
+DEVICE=eth0
+ONBOOT=yes
+BOOTPROTO=none
+IPADDR=10.1.1.1
+NETMASK=255.255.0.0
+GATEWAY=10.1.1.254
+EOF
+ ```
+
+
+
+## 2.0 添加内网访问路由
+
+
+
+### 一、配置eth0 的路由
+
+```bash
+cat > /etc/sysconfig/network-scripts/route-eth0
 ADDRESS0=192.168.0.0
 NETMASK0=255.255.0.0
 GATEWAY0=192.168.1.254
+EOF
+```
 
-下面这样配置是一样的
 
-192.168.0.0/16 via 192.168.1.254 dev eth0
-1
-三、重启网路服务，立即生效
-systemctl restart network.service
-四、查看路由表
+
+
+## 3.0 重启网路服务
+
+```bash
+systemctl restart network
+```
+
+
+
+查看路由
+
+```bash
+route -n
 ip route list
+```
+
